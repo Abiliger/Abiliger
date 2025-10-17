@@ -45,8 +45,8 @@ Bachelor’s in Computer Science — Faculty of Computer Science and Cybernetics
 ---
 
 ## 📫 Contact Me
-📧 **[your.email@example.com](mailto:your.email@example.com)**  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/Abiliger)
+📧 **[ivanova.anhelina.o@gmail.com](mailto:ivanova.anhelina.o@gmail.com)**  
+🔗 [LinkedIn](www.linkedin.com/in/anhelina-ivanova-3a9a35342) | [GitHub](https://github.com/Abiliger)
 
 ---
 
